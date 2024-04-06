@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Main\n"
 "Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-11-14 14:49+0000\n"
+"PO-Revision-Date: 2024-04-06 11:24+0000\n"
 "Last-Translator: Joakim Sandstrom <translator-1@contribute-osmc.com>\n"
 "Language-Team: Swedish <http://translate.osmc.tv/projects/osmc/osmc-skin/sv_se/>\n"
 "Language: sv_se\n"
@@ -119,7 +119,7 @@ msgstr "Ofokuserad objektfärg"
 
 msgctxt "#31025"
 msgid "OSD cache bar colour"
-msgstr "OSD cache indikatofärg"
+msgstr "OSD cacheindikatorfärg"
 
 msgctxt "#31026"
 msgid "Colour used for focused controls like buttons, scrollbars or highlighted indicators and progress bars[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
@@ -135,11 +135,11 @@ msgstr "Visa visualisering i bakgrunden"
 
 msgctxt "#31029"
 msgid "Fallback Artwork"
-msgstr ""
+msgstr "Reservbilder"
 
 msgctxt "#31030"
 msgid "Enable main menu customization"
-msgstr "Aktivera huvudmeny anpassning"
+msgstr "Aktivera anpassning av huvudmenyn"
 
 msgctxt "#31031"
 msgid "Recent movies"
@@ -155,11 +155,11 @@ msgstr "Bilder"
 
 msgctxt "#31034"
 msgid "Show background Artist Slideshow"
-msgstr ""
+msgstr "Visa artistbildspel i bakgrunden"
 
 msgctxt "#31035"
 msgid "Recent episodes"
-msgstr ""
+msgstr "Senaste avsnitten"
 
 msgctxt "#31036"
 msgid "Recommended episodes"
@@ -179,15 +179,15 @@ msgstr "Rekommenderade album"
 
 msgctxt "#31040"
 msgid "Never hide information during music fullscreen playback"
-msgstr ""
+msgstr "Dölj aldrig information under helskärmsuppspelning av musik"
 
 msgctxt "#31041"
 msgid "Debug grid"
-msgstr ""
+msgstr "Felsökningsnät"
 
 msgctxt "#31042"
 msgid "Debug labels"
-msgstr ""
+msgstr "Felsökningsetiketter"
 
 msgctxt "#31043"
 msgid "Extra art"
@@ -195,15 +195,15 @@ msgstr "Extra bilder"
 
 msgctxt "#31044"
 msgid "Local subtitle found!"
-msgstr ""
+msgstr "Fann lokal undertext!"
 
 msgctxt "#31045"
 msgid "Supplied by"
-msgstr ""
+msgstr "Levereras av"
 
 msgctxt "#31046"
 msgid "Currently"
-msgstr ""
+msgstr "För närvarande"
 
 msgctxt "#31047"
 msgid "Visualisation Presets"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#31048"
 msgid "Playlist Options"
-msgstr ""
+msgstr "Spellistealternativ"
 
 msgctxt "#31049"
 msgid "Customize main menu"
@@ -247,7 +247,7 @@ msgstr "Slumpade skivor"
 
 msgctxt "#31057"
 msgid "Kiosk mode"
-msgstr "Kiosk läge"
+msgstr "Kioskläge"
 
 msgctxt "#31058"
 msgid "Reset all skin settings"
@@ -255,7 +255,7 @@ msgstr "Återställ alla skalets inställningar"
 
 msgctxt "#31059"
 msgid "Memory Used:"
-msgstr "Minne använt:"
+msgstr "Använt minne:"
 
 msgctxt "#31060"
 msgid "Colour used for CIH/cinemascope projector screen setup masking bars[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
@@ -291,7 +291,7 @@ msgstr "Väderikoner"
 
 msgctxt "#31068"
 msgid "Weather fanart"
-msgstr "Väder fanart"
+msgstr "Väder-fanart"
 
 msgctxt "#31069"
 msgid "Location"
@@ -1067,7 +1067,7 @@ msgstr ""
 
 msgctxt "#31263"
 msgid "Remotes"
-msgstr ""
+msgstr "Fjärrkontroller"
 
 msgctxt "#31264"
 msgid "App Store"
@@ -1075,7 +1075,7 @@ msgstr ""
 
 msgctxt "#31265"
 msgid "Updates"
-msgstr ""
+msgstr "Uppdateringar"
 
 msgctxt "#31266"
 msgid "Services"
