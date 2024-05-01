@@ -7,279 +7,279 @@ msgstr ""
 "Project-Id-Version: XBMC Main\n"
 "Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-11-18 10:30+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-05-01 00:43+0000\n"
+"Last-Translator: kslbe <translator-36@contribute-osmc.com>\n"
 "Language-Team: Slovenian <http://translate.osmc.tv/projects/osmc/osmc-skin/sl_si/>\n"
 "Language: sl_si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.9\n"
+"X-Generator: Weblate 4.9.1\n"
 
 msgctxt "#31000"
 msgid "Item"
-msgstr ""
+msgstr "Postavka"
 
 msgctxt "#31001"
 msgid "Items"
-msgstr ""
+msgstr "Postavke"
 
 msgctxt "#31002"
 msgid "Tag"
-msgstr ""
+msgstr "Oznaka"
 
 msgctxt "#31003"
 msgid "Look"
-msgstr ""
+msgstr "Izgled"
 
 msgctxt "#31004"
 msgid "Layout"
-msgstr ""
+msgstr "Postavitev"
 
 msgctxt "#31005"
 msgid "Disable scrollbars"
-msgstr ""
+msgstr "Onemogoči drsne trakove"
 
 msgctxt "#31006"
 msgid "Overlays"
-msgstr ""
+msgstr "Prekrivki"
 
 msgctxt "#31007"
 msgid "System music files"
-msgstr ""
+msgstr "Sistemske glasbene datoteke"
 
 msgctxt "#31008"
 msgid "Currently selected"
-msgstr ""
+msgstr "Trenutno izbrano"
 
 msgctxt "#31009"
 msgid "Open playlist"
-msgstr ""
+msgstr "Odpri seznam predvajanja"
 
 msgctxt "#31010"
 msgid "Save playlist"
-msgstr ""
+msgstr "Shrani seznam predvajanja"
 
 msgctxt "#31011"
 msgid "Clear playlist"
-msgstr ""
+msgstr "Počisti seznam predvajanja"
 
 msgctxt "#31012"
 msgid "Current playlist"
-msgstr ""
+msgstr "Trenutni seznam predvajanja"
 
 msgctxt "#31013"
 msgid "Muted"
-msgstr ""
+msgstr "Utišan"
 
 msgctxt "#31014"
 msgid "Show visualisation & Artist Slideshow"
-msgstr ""
+msgstr "Prikažite vizualizacijo in diaprojekcijo umetnika"
 
 msgctxt "#31015"
 msgid "Favourite"
-msgstr ""
+msgstr "Priljubljeni"
 
 msgctxt "#31016"
 msgid "Settings level"
-msgstr ""
+msgstr "Raven nastavitev"
 
 msgctxt "#31017"
 msgid "Voted"
-msgstr ""
+msgstr "Glasovano"
 
 msgctxt "#31018"
 msgid "Increase"
-msgstr ""
+msgstr "Porast"
 
 msgctxt "#31019"
 msgid "Decrease"
-msgstr ""
+msgstr "Zmanjšanje"
 
 msgctxt "#31020"
 msgid "Background"
-msgstr ""
+msgstr "Ozadje"
 
 msgctxt "#31021"
 msgid "Home"
-msgstr ""
+msgstr "Domov"
 
 msgctxt "#31022"
 msgid "Rules"
-msgstr ""
+msgstr "Pravila"
 
 msgctxt "#31023"
 msgid "Focus control colour"
-msgstr ""
+msgstr "Barva nadzora ostrenja"
 
 msgctxt "#31024"
 msgid "Non-focus control colour"
-msgstr ""
+msgstr "Barva nadzora brez izostritve"
 
 msgctxt "#31025"
 msgid "OSD cache bar colour"
-msgstr ""
+msgstr "Barva vrstice predpomnilnika OSD"
 
 msgctxt "#31026"
 msgid "Colour used for focused controls like buttons, scrollbars or highlighted indicators and progress bars[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
-msgstr ""
+msgstr "Barva, ki se uporablja za osredotočene kontrolnike, kot so gumbi, drsni trakovi ali označeni indikatorji in vrstice napredka[CR]Prilagodite motnost barve prek gumba za urejanje vrednosti barve (kanal alfa – prvi dve šestnajstiški številki prilagodita motnost)"
 
 msgctxt "#31027"
 msgid "Show background video"
-msgstr ""
+msgstr "Prikaži video v ozadju"
 
 msgctxt "#31028"
 msgid "Show background visualisation"
-msgstr ""
+msgstr "Prikaži vizualizacijo ozadja"
 
 msgctxt "#31029"
 msgid "Fallback Artwork"
-msgstr ""
+msgstr "Nadomestno umetniško delo"
 
 msgctxt "#31030"
 msgid "Enable main menu customization"
-msgstr ""
+msgstr "Omogoči prilagajanje glavnega menija"
 
 msgctxt "#31031"
 msgid "Recent movies"
-msgstr ""
+msgstr "Nedavni filmi"
 
 msgctxt "#31032"
 msgid "Recommended movies"
-msgstr ""
+msgstr "Priporočeni filmi"
 
 msgctxt "#31033"
 msgid "Artwork"
-msgstr ""
+msgstr "Umetnine"
 
 msgctxt "#31034"
 msgid "Show background Artist Slideshow"
-msgstr ""
+msgstr "Prikaži diaprojekcijo izvajalca v ozadju"
 
 msgctxt "#31035"
 msgid "Recent episodes"
-msgstr ""
+msgstr "Zadnje epizode"
 
 msgctxt "#31036"
 msgid "Recommended episodes"
-msgstr ""
+msgstr "Priporočene epizode"
 
 msgctxt "#31037"
 msgid "Colour used for controls without focus like buttons, scrollbars or non-highlighted indicators and progress bars[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
-msgstr ""
+msgstr "Barva, ki se uporablja za kontrolnike brez fokusa, kot so gumbi, drsni trakovi ali neoznačeni indikatorji in vrstice napredka[CR]Prilagodite motnost barve prek gumba za urejanje vrednosti barve (kanal alfa – prvi dve šestnajstiški števki prilagodita motnost)"
 
 msgctxt "#31038"
 msgid "Recent albums"
-msgstr ""
+msgstr "Zadnji albumi"
 
 msgctxt "#31039"
 msgid "Recommended albums"
-msgstr ""
+msgstr "Priporočeni albumi"
 
 msgctxt "#31040"
 msgid "Never hide information during music fullscreen playback"
-msgstr ""
+msgstr "Nikoli ne skrivajte informacij med celozaslonskim predvajanjem glasbe"
 
 msgctxt "#31041"
 msgid "Debug grid"
-msgstr ""
+msgstr "Mreža za odpravljanje napak"
 
 msgctxt "#31042"
 msgid "Debug labels"
-msgstr ""
+msgstr "Oznake za odpravljanje napak"
 
 msgctxt "#31043"
 msgid "Extra art"
-msgstr ""
+msgstr "Dodatna umetnost"
 
 msgctxt "#31044"
 msgid "Local subtitle found!"
-msgstr ""
+msgstr "Najden lokalni podnapis!"
 
 msgctxt "#31045"
 msgid "Supplied by"
-msgstr ""
+msgstr "Zagotavlja"
 
 msgctxt "#31046"
 msgid "Currently"
-msgstr ""
+msgstr "Trenutno"
 
 msgctxt "#31047"
 msgid "Visualisation Presets"
-msgstr ""
+msgstr "Prednastavitve vizualizacije"
 
 msgctxt "#31048"
 msgid "Playlist Options"
-msgstr ""
+msgstr "Možnosti seznama predvajanja"
 
 msgctxt "#31049"
 msgid "Customize main menu"
-msgstr ""
+msgstr "Prilagodite glavni meni"
 
 msgctxt "#31050"
 msgid "Colour used for the OSD cache bar[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
-msgstr ""
+msgstr "Barva, uporabljena za vrstico predpomnilnika OSD [CR] Prilagodite motnost barve prek gumba za urejanje vrednosti barve (kanal alfa – prvi dve šestnajstiški števki prilagodita motnost)"
 
 msgctxt "#31051"
 msgid "Settings can be accessed from the Shutdown menu.[CR]ONLY deactivate 'Always show settings link in main menu' AND remove the settings and power main menu item at the same time, if you know what you're doing!"
-msgstr ""
+msgstr "Do nastavitev lahko dostopate iz menija za zaustavitev.[CR]SAMO deaktivirajte 'Vedno pokaži povezavo do nastavitev v glavnem meniju' IN istočasno odstranite nastavitve in element glavnega menija napajanja, če veste, kaj počnete!"
 
 msgctxt "#31052"
 msgid "Backup and restore skin settings"
-msgstr ""
+msgstr "Varnostno kopirajte in obnovite nastavitve vmesnika"
 
 msgctxt "#31053"
 msgid "Disable scrolling label"
-msgstr ""
+msgstr "Onemogoči drsečo oznako"
 
 msgctxt "#31054"
 msgid "Random movies"
-msgstr ""
+msgstr "Naključni filmi"
 
 msgctxt "#31055"
 msgid "Random episodes"
-msgstr ""
+msgstr "Naključne epizode"
 
 msgctxt "#31056"
 msgid "Random albums"
-msgstr ""
+msgstr "Naključni albumi"
 
 msgctxt "#31057"
 msgid "Kiosk mode"
-msgstr ""
+msgstr "Način kioska"
 
 msgctxt "#31058"
 msgid "Reset all skin settings"
-msgstr ""
+msgstr "Ponastavite vse nastavitve vmesnika"
 
 msgctxt "#31059"
 msgid "Memory Used:"
-msgstr ""
+msgstr "Uporabljen pomnilnik:"
 
 msgctxt "#31060"
 msgid "Colour used for CIH/cinemascope projector screen setup masking bars[CR]Adjust colour opacity via the edit colour value button (the alpha channel - the first two hex digits adjust opacity)"
-msgstr ""
+msgstr "Barva, ki se uporablja za maskirne vrstice za nastavitev zaslona projektorja CIH/cinemascope [CR]Prilagodite motnost barve prek gumba za urejanje vrednosti barve (kanal alfa – prvi dve šestnajstiški števki prilagodite motnost)"
 
 msgctxt "#31061"
 msgid "OSMC Blue"
-msgstr ""
+msgstr "OSMC modra"
 
 msgctxt "#31062"
 msgid "Menu/OSD colour"
-msgstr ""
+msgstr "Barva menija/OSD"
 
 msgctxt "#31063"
 msgid "Add-ons"
-msgstr ""
+msgstr "Dodatki"
 
 msgctxt "#31064"
 msgid "Custom background image"
-msgstr ""
+msgstr "Slika ozadja po meri"
 
 msgctxt "#31065"
 msgid "Masking aspect ratio"
-msgstr ""
+msgstr "Maskirno razmerje stranic"
 
 msgctxt "#31066"
 msgid "Cinema Exp."
@@ -287,51 +287,51 @@ msgstr ""
 
 msgctxt "#31067"
 msgid "Weather icons"
-msgstr ""
+msgstr "Ikone vremena"
 
 msgctxt "#31068"
 msgid "Weather fanart"
-msgstr ""
+msgstr "Vremenska oboževalna umetnost"
 
 msgctxt "#31069"
 msgid "Location"
-msgstr ""
+msgstr "Lokacija"
 
 msgctxt "#31070"
 msgid "OSMC Light blue"
-msgstr ""
+msgstr "OSMC svetlo modra"
 
 msgctxt "#31071"
 msgid "Edit sub menu"
-msgstr ""
+msgstr "Uredi podmeni"
 
 msgctxt "#31072"
 msgid "Still there?"
-msgstr ""
+msgstr "Še vedno tam?"
 
 msgctxt "#31073"
 msgid "Click OK to keep watching"
-msgstr ""
+msgstr "Za nadaljevanje gledanja kliknite V redu"
 
 msgctxt "#31074"
 msgid "Always show music info during fullscreen music playback"
-msgstr ""
+msgstr "Med celozaslonskim predvajanjem glasbe vedno prikaži informacije o glasbi"
 
 msgctxt "#31075"
 msgid "Reset/Debug"
-msgstr ""
+msgstr "Ponastavitev/odpravljanje napak"
 
 msgctxt "#31076"
 msgid "Widget fanart in the main menu"
-msgstr ""
+msgstr "Pripomoček oboževalske umetnosti v glavnem meniju"
 
 msgctxt "#31077"
 msgid "Widget icons in the main menu"
-msgstr ""
+msgstr "Ikone pripomočkov v glavnem meniju"
 
 msgctxt "#31078"
 msgid "Wall"
-msgstr ""
+msgstr "Zid"
 
 msgctxt "#31079"
 msgid "Skin Shortcuts"
@@ -339,7 +339,7 @@ msgstr ""
 
 msgctxt "#31080"
 msgid "Recommended"
-msgstr ""
+msgstr "Priporočeno"
 
 msgctxt "#31081"
 msgid "Skin Helper Service"
@@ -355,7 +355,7 @@ msgstr ""
 
 msgctxt "#31084"
 msgid "Supported"
-msgstr ""
+msgstr "Podprto"
 
 msgctxt "#31085"
 msgid "Up Next"
@@ -367,19 +367,19 @@ msgstr ""
 
 msgctxt "#31087"
 msgid "Video decoder"
-msgstr ""
+msgstr "Video dekoder"
 
 msgctxt "#31088"
 msgid "Pixel format"
-msgstr ""
+msgstr "Format slikovnih pik"
 
 msgctxt "#31089"
 msgid "Memory used"
-msgstr ""
+msgstr "Uporabljen pomnilnik"
 
 msgctxt "#31090"
 msgid "Eject Tray"
-msgstr ""
+msgstr "Izmetni pladenj"
 
 msgctxt "#31091"
 msgid "My OSMC"
@@ -387,23 +387,23 @@ msgstr ""
 
 msgctxt "#31092"
 msgid "Not installed"
-msgstr ""
+msgstr "Ni nameščeno"
 
 msgctxt "#31093"
 msgid "installed"
-msgstr ""
+msgstr "nameščen"
 
 msgctxt "#31094"
 msgid "Multi-image weather fanart is not supported"
-msgstr ""
+msgstr "Vremenska slika z več slikami ni podprta"
 
 msgctxt "#31095"
 msgid "Manage widgets"
-msgstr ""
+msgstr "Upravljanje pripomočkov"
 
 msgctxt "#31096"
 msgid "Always show settings link in main menu"
-msgstr ""
+msgstr "Vedno prikaži povezavo do nastavitev v glavnem meniju"
 
 msgctxt "#31097"
 msgid "Skin Helper Service Skin Backup"
@@ -411,35 +411,35 @@ msgstr ""
 
 msgctxt "#31098"
 msgid "Skin wide settings and customization options"
-msgstr ""
+msgstr "Nastavitve široke preobleke in možnosti prilagajanja"
 
 msgctxt "#31099"
 msgid "Show fanart images"
-msgstr ""
+msgstr "Pokaži slike oboževalcev"
 
 msgctxt "#31100"
 msgid "Plot/description text font size"
-msgstr ""
+msgstr "Velikost pisave besedila parcele/opisa"
 
 msgctxt "#31101"
 msgid "Show date above system time"
-msgstr ""
+msgstr "Pokaži datum nad sistemskim časom"
 
 msgctxt "#31102"
 msgid "Display time of video player OSD during pause"
-msgstr ""
+msgstr "Čas prikaza OSD video predvajalnika med premorom"
 
 msgctxt "#31103"
 msgid "Log Uploader"
-msgstr ""
+msgstr "Nalagalnik dnevnika"
 
 msgctxt "#31104"
 msgid "Dim factor of unfocused art"
-msgstr ""
+msgstr "Zatemnjen dejavnik nefokusirane umetnosti"
 
 msgctxt "#31105"
 msgid "Disable underline text highlight"
-msgstr ""
+msgstr "Onemogoči označevanje podčrtanega besedila"
 
 msgctxt "#31106"
 msgid "Skin Helper Service Widgets"
@@ -447,35 +447,35 @@ msgstr ""
 
 msgctxt "#31107"
 msgid "Backup/Reset"
-msgstr ""
+msgstr "Varnostno kopiranje/ponastavitev"
 
 msgctxt "#31108"
 msgid "Colour set"
-msgstr ""
+msgstr "Barvni set"
 
 msgctxt "#31109"
 msgid "Background opacity"
-msgstr ""
+msgstr "Motnost ozadja"
 
 msgctxt "#31110"
 msgid "Menu/OSD opacity"
-msgstr ""
+msgstr "Neprosojnost menija/OSD"
 
 msgctxt "#31111"
 msgid "Pi Config"
-msgstr ""
+msgstr "Nastavitev Pi"
 
 msgctxt "#31112"
 msgid "Wide low"
-msgstr ""
+msgstr "Širok nizek"
 
 msgctxt "#31113"
 msgid "Wall low"
-msgstr ""
+msgstr "Zid nizek"
 
 msgctxt "#31114"
 msgid "Wall small"
-msgstr ""
+msgstr "Zid majhen"
 
 msgctxt "#31115"
 msgid "Trakt.tv"
@@ -483,19 +483,19 @@ msgstr ""
 
 msgctxt "#31116"
 msgid "Wall small info"
-msgstr ""
+msgstr "Zid kartki info"
 
 msgctxt "#31117"
 msgid "List info"
-msgstr ""
+msgstr "Informacije o seznamu"
 
 msgctxt "#31118"
 msgid "Random TV shows"
-msgstr ""
+msgstr "Naključne TV oddaje"
 
 msgctxt "#31119"
 msgid "Disabled"
-msgstr ""
+msgstr "Onemogočeno"
 
 msgctxt "#31120"
 msgid "Metacritic"
@@ -511,87 +511,87 @@ msgstr ""
 
 msgctxt "#31123"
 msgid "Show OSD info when video playback starts"
-msgstr ""
+msgstr "Prikaži informacije OSD, ko se začne predvajanje videa"
 
 msgctxt "#31124"
 msgid "Active for movie playback"
-msgstr ""
+msgstr "Aktivno za predvajanje filmov"
 
 msgctxt "#31125"
 msgid "Active for TV show playback"
-msgstr ""
+msgstr "Aktivno za predvajanje TV oddaje"
 
 msgctxt "#31126"
 msgid "Active for live TV playback"
-msgstr ""
+msgstr "Aktiven za predvajanje televizije v živo"
 
 msgctxt "#31127"
 msgid "Active for music video playback"
-msgstr ""
+msgstr "Aktivno za predvajanje glasbenih videov"
 
 msgctxt "#31128"
 msgid "Active for other video playback"
-msgstr ""
+msgstr "Aktivno za predvajanje drugega videa"
 
 msgctxt "#31129"
 msgid "Duration after playback starts"
-msgstr ""
+msgstr "Trajanje po začetku predvajanja"
 
 msgctxt "#31130"
 msgid "Show OSD info when switching TV channels"
-msgstr ""
+msgstr "Pri preklapljanju TV kanalov prikaži informacije na zaslonu"
 
 msgctxt "#31131"
 msgid "Show OSD info before video playback ends"
-msgstr ""
+msgstr "Pokaži informacije na zaslonu, preden se predvajanje videa konča"
 
 msgctxt "#31132"
 msgid "Duration before playback ends"
-msgstr ""
+msgstr "Trajanje pred koncem predvajanja"
 
 msgctxt "#31133"
 msgid "Wall info"
-msgstr ""
+msgstr "Informacije o zidu"
 
 msgctxt "#31134"
 msgid "Adjust representation of video duration"
-msgstr ""
+msgstr "Prilagodite predstavitev trajanja videa"
 
 msgctxt "#31135"
 msgid "Single image"
-msgstr ""
+msgstr "Ena slika"
 
 msgctxt "#31136"
 msgid "Multi-image (folder)"
-msgstr ""
+msgstr "Več slik (mapa)"
 
 msgctxt "#31137"
 msgid "Time per image"
-msgstr ""
+msgstr "Čas na sliko"
 
 msgctxt "#31138"
 msgid "Randomize"
-msgstr ""
+msgstr "Naključno določi"
 
 msgctxt "#31139"
 msgid "Reset path"
-msgstr ""
+msgstr "Ponastavi pot"
 
 msgctxt "#31140"
 msgid "Customization dialog to change the way the main menu looks[CR]Main menu and submenu items and widgets can be edited."
-msgstr ""
+msgstr "Pogovorno okno za prilagajanje, da spremenite videz glavnega menija[CR]Urejate lahko elemente glavnega menija in podmenija ter pripomočke."
 
 msgctxt "#31141"
 msgid "Open music fullscreen window when starting playback"
-msgstr ""
+msgstr "Odpri celozaslonsko okno glasbe ob začetku predvajanja"
 
 msgctxt "#31142"
 msgid "Open music fullscreen automatically"
-msgstr ""
+msgstr "Samodejno odpri glasbo v celozaslonskem načinu"
 
 msgctxt "#31143"
 msgid "Idle time until music fullscreen window opens"
-msgstr ""
+msgstr "Čas mirovanja, dokler se ne odpre celozaslonsko okno za glasbo"
 
 msgctxt "#31144"
 msgid "Video OSD"
@@ -599,303 +599,303 @@ msgstr ""
 
 msgctxt "#31145"
 msgid "Music OSD"
-msgstr ""
+msgstr "OSD za glasbo"
 
 msgctxt "#31146"
 msgid "Show user rating in music and video library"
-msgstr ""
+msgstr "Prikaži uporabniško oceno v glasbeni in video knjižnici"
 
 msgctxt "#31147"
 msgid "Disable submenu player controls"
-msgstr ""
+msgstr "Onemogoči kontrole predvajalnika v podmeniju"
 
 msgctxt "#31148"
 msgid "Disable video watched status in library"
-msgstr ""
+msgstr "Onemogoči stanje ogleda videa v knjižnici"
 
 msgctxt "#31149"
 msgid "Disable music listened to status in library"
-msgstr ""
+msgstr "Onemogoči stanje poslušane glasbe v knjižnici"
 
 msgctxt "#31150"
 msgid "Masking colour"
-msgstr ""
+msgstr "Maskirna barva"
 
 msgctxt "#31151"
 msgid "OK"
-msgstr ""
+msgstr "V redu"
 
 msgctxt "#31152"
 msgid "OSMC Black"
-msgstr ""
+msgstr "OSMC črna"
 
 msgctxt "#31153"
 msgid "OSMC Rose red"
-msgstr ""
+msgstr "OSMC rdeča roža"
 
 msgctxt "#31154"
 msgid "OSMC Sunset Yellow"
-msgstr ""
+msgstr "OSMC sončno rumena"
 
 msgctxt "#31155"
 msgid "We'd like to thank you for using the OSMC skin on your device![CR]For more information see https://osmc.tv"
-msgstr ""
+msgstr "Radi bi se vam zahvalili za uporabo preobleke OSMC v vaši napravi![CR]Za več informacij glejte https://osmc.tv"
 
 msgctxt "#31156"
 msgid "Click OK to toggle player debug information."
-msgstr ""
+msgstr "Kliknite V redu, da preklopite informacije o odpravljanju napak predvajalnika."
 
 msgctxt "#31157"
 msgid "Previous"
-msgstr ""
+msgstr "Prejšnji"
 
 msgctxt "#31158"
 msgid "Current"
-msgstr ""
+msgstr "Trenutno"
 
 msgctxt "#31159"
 msgid "Next"
-msgstr ""
+msgstr "Naslednji"
 
 msgctxt "#31160"
 msgid "Widget"
-msgstr ""
+msgstr "Pripomoček"
 
 msgctxt "#31161"
 msgid "Hide"
-msgstr ""
+msgstr "Skrij"
 
 msgctxt "#31162"
 msgid "Background colour"
-msgstr ""
+msgstr "Barva ozadja"
 
 msgctxt "#31163"
 msgid "Focus text colour"
-msgstr ""
+msgstr "Barva besedila v fokusu"
 
 msgctxt "#31164"
 msgid "Non-focus text colour"
-msgstr ""
+msgstr "Barva besedila brez fokusa"
 
 msgctxt "#31165"
 msgid "Selected text colour"
-msgstr ""
+msgstr "Izbrana barva besedila"
 
 msgctxt "#31166"
 msgid "Disabled text colour"
-msgstr ""
+msgstr "Barva onemogočenega besedila"
 
 msgctxt "#31167"
 msgid "Recently added movies"
-msgstr ""
+msgstr "Nedavno dodani filmi"
 
 msgctxt "#31168"
 msgid "OSMC Lime green"
-msgstr ""
+msgstr "OSMC zelena limeta"
 
 msgctxt "#31169"
 msgid "Welcome"
-msgstr ""
+msgstr "Dobrodošli"
 
 msgctxt "#31170"
 msgid "Show information on first info dialog page"
-msgstr ""
+msgstr "Prikaži informacije na prvi strani pogovornega okna z informacijami"
 
 msgctxt "#31171"
 msgid "Press left/right button for details"
-msgstr ""
+msgstr "Pritisnite levo/desno tipko za podrobnosti"
 
 msgctxt "#31172"
 msgid "Layout"
-msgstr ""
+msgstr "Postavitev"
 
 msgctxt "#31173"
 msgid "Visibility"
-msgstr ""
+msgstr "Vidnost"
 
 msgctxt "#31174"
 msgid "Show lock icon for encrypted PVR channels"
-msgstr ""
+msgstr "Prikaži ikono ključavnice za šifrirane kanale PVR"
 
 msgctxt "#31175"
 msgid "Sort by"
-msgstr ""
+msgstr "Razvrsti po"
 
 msgctxt "#31176"
 msgid "Sort direction"
-msgstr ""
+msgstr "Smer razvrščanja"
 
 msgctxt "#31177"
 msgid "Item limit"
-msgstr ""
+msgstr "Omejitev artikla"
 
 msgctxt "#31178"
 msgid "Pre-configured widgets"
-msgstr ""
+msgstr "Prednastavljeni pripomočki"
 
 msgctxt "#31179"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "Nedavno dodani filmi"
 
 msgctxt "#31180"
 msgid "Recently Played Movies"
-msgstr ""
+msgstr "Nedavno predvajani filmi"
 
 msgctxt "#31181"
 msgid "Random Movies"
-msgstr ""
+msgstr "Naključni filmi"
 
 msgctxt "#31182"
 msgid "In-Progress Movies"
-msgstr ""
+msgstr "Filmi v nastajanju"
 
 msgctxt "#31183"
 msgid "Top Rated Movies"
-msgstr ""
+msgstr "Najbolje ocenjeni filmi"
 
 msgctxt "#31184"
 msgid "IMDB Top 250 Movies"
-msgstr ""
+msgstr "250 najboljših filmov na IMDB"
 
 msgctxt "#31185"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "Neogledani filmi"
 
 msgctxt "#31186"
 msgid "Movie Nodes"
-msgstr ""
+msgstr "Filmska vozlišča"
 
 msgctxt "#31187"
 msgid "Movie Genres"
-msgstr ""
+msgstr "Filmski žanri"
 
 msgctxt "#31189"
 msgid "TV Shows"
-msgstr ""
+msgstr "TV oddaje"
 
 msgctxt "#31190"
 msgid "Recently Added TV Shows"
-msgstr ""
+msgstr "Nedavno dodane TV-oddaje"
 
 msgctxt "#31191"
 msgid "Recently Played TV Shows"
-msgstr ""
+msgstr "Nedavno predvajane TV-oddaje"
 
 msgctxt "#31192"
 msgid "Random TV Shows"
-msgstr ""
+msgstr "Naključne TV oddaje"
 
 msgctxt "#31193"
 msgid "In-Progress TV Shows"
-msgstr ""
+msgstr "TV-oddaje v teku"
 
 msgctxt "#31194"
 msgid "Top Rated TV Shows"
-msgstr ""
+msgstr "Najbolje ocenjene TV-oddaje"
 
 msgctxt "#31195"
 msgid "Unwatched TV Shows"
-msgstr ""
+msgstr "Najbolje ocenjene TV-oddaje"
 
 msgctxt "#31196"
 msgid "TV Show Nodes"
-msgstr ""
+msgstr "Vozlišča TV oddaje"
 
 msgctxt "#31197"
 msgid "TV Show Genres"
-msgstr ""
+msgstr "Žanri TV oddaj"
 
 msgctxt "#31198"
 msgid "Recently Added Episodes"
-msgstr ""
+msgstr "Nedavno dodane epizode"
 
 msgctxt "#31199"
 msgid "Recently Played Episodes"
-msgstr ""
+msgstr "Nedavno predvajane epizode"
 
 msgctxt "#31200"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Naključne epizode"
 
 msgctxt "#31201"
 msgid "In-Progress Episodes"
-msgstr ""
+msgstr "Epizode v teku"
 
 msgctxt "#31202"
 msgid "Top Rated Episodes"
-msgstr ""
+msgstr "Najbolje ocenjene epizode"
 
 msgctxt "#31203"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "Neogledane epizode"
 
 msgctxt "#31204"
 msgid "Recently Added Artists"
-msgstr ""
+msgstr "Nedavno dodani umetniki"
 
 msgctxt "#31205"
 msgid "Random Artists"
-msgstr ""
+msgstr "Naključni umetniki"
 
 msgctxt "#31206"
 msgid "Music Nodes"
-msgstr ""
+msgstr "Glasbena vozlišča"
 
 msgctxt "#31207"
 msgid "Recently Added Albums"
-msgstr ""
+msgstr "Nedavno dodani albumi"
 
 msgctxt "#31208"
 msgid "Recently Played Albums"
-msgstr ""
+msgstr "Nedavno predvajani albumi"
 
 msgctxt "#31209"
 msgid "Recently Released Albums"
-msgstr ""
+msgstr "Nedavno izdani albumi"
 
 msgctxt "#31210"
 msgid "Top 100 Albums"
-msgstr ""
+msgstr "100 najboljših albumov"
 
 msgctxt "#31211"
 msgid "Random Albums"
-msgstr ""
+msgstr "Naključni albumi"
 
 msgctxt "#31212"
 msgid "Most Played Albums"
-msgstr ""
+msgstr "Najbolj predvajani albumi"
 
 msgctxt "#31213"
 msgid "Recently Added Songs"
-msgstr ""
+msgstr "Nedavno dodane pesmi"
 
 msgctxt "#31214"
 msgid "Recently Released Songs"
-msgstr ""
+msgstr "Nedavno izdane pesmi"
 
 msgctxt "#31215"
 msgid "Most Played Songs"
-msgstr ""
+msgstr "Najbolj predvajane pesmi"
 
 msgctxt "#31216"
 msgid "Random Songs"
-msgstr ""
+msgstr "Naključne pesmi"
 
 msgctxt "#31217"
 msgid "Recently Added Music Videos"
-msgstr ""
+msgstr "Nedavno dodani glasbeni videoposnetki"
 
 msgctxt "#31218"
 msgid "In-Progress Music Videos"
-msgstr ""
+msgstr "Glasbeni videi v teku"
 
 msgctxt "#31219"
 msgid "Random Music Videos"
-msgstr ""
+msgstr "Naključni glasbeni videi"
 
 msgctxt "#31220"
 msgid "Unwatched Music Videos"
-msgstr ""
+msgstr "Neogledani glasbeni videi"
 
 msgctxt "#31221"
 msgid "PVR"
@@ -903,15 +903,15 @@ msgstr ""
 
 msgctxt "#31222"
 msgid "Last Played TV Channels"
-msgstr ""
+msgstr "Zadnji predvajani TV kanali"
 
 msgctxt "#31223"
 msgid "Active TV Recordings"
-msgstr ""
+msgstr "Aktivni televizijski posnetki"
 
 msgctxt "#31224"
 msgid "Grouped Active TV Recordings"
-msgstr ""
+msgstr "Združeni aktivni televizijski posnetki"
 
 msgctxt "#31225"
 msgid "Grouped Deleted TV Recordings"
