@@ -6,7 +6,7 @@ For further information, check out the wiki here: https://osmc.tv/wiki/general/t
 
 ## This skin is shipped with official releases of OSMC (https://osmc.tv/download/).
 
-Install from GitHub on other platforms - check for the newest release here: https://github.com/osmc/skin.osmc/releases
+Follow these instructions to install the OSMC Skin on other platforms: https://osmcsk.in/
 
 Original skin: Andy Morton (https://github.com/BobCratchett)
 
