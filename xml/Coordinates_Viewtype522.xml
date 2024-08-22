@@ -8,10 +8,10 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords1_4:3</include>
 	</include>
 	<include name="Viewtype522_coords1_16:9">
-		<left>0</left>
-		<top>390</top>
+		<left>-20</left>
+		<top>140</top>
 		<width>1920</width>
-		<height>480</height>
+		<height>752</height>
 		<preloaditems>6</preloaditems>
 		<focusposition>2</focusposition>
 	</include>
@@ -47,7 +47,7 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords2_4:3</include>
 	</include>
 	<include name="Viewtype522_coords2_16:9">
-		<itemlayout width="160" height="480">
+		<itemlayout width="160" height="752">
 			<!-- Image - Movies -->
 			<include content="MediaViewImageNF">
 				<param name="fallback">DefaultMovie.png</param>
@@ -142,7 +142,7 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords3_4:3</include>
 	</include>
 	<include name="Viewtype522_coords3_16:9">
-		<focusedlayout width="320" height="480">
+		<focusedlayout width="500" height="750">
 			<control type="group">
 				<animation effect="zoom" start="40" end="100" center="160,384" time="300" tween="back" easing="out" reversible="false" condition="Container(522).OnNext | Container(522).OnPrevious">Focus</animation>
 				<!-- Image - Movies -->
@@ -275,10 +275,10 @@
 		<include condition="$EXP[MaskedCoordinates]">Viewtype522_coords5_21:9_masked</include>
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords5_4:3</include>
 	</include>
-	<include name="Viewtype522_coords5_16:9">
-		<left>0</left>
-		<top>0</top>
-		<width>720</width>
+	<include name="Viewtype522_coords5_16:9"> <!----------------------------------------------->
+		<left>700</left>
+		<top>100</top>
+		<width>950</width>
 		<height>72</height>
 	</include>
 	<include name="Viewtype522_coords5_21:9">
@@ -307,8 +307,8 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords6_4:3</include>
 	</include>
 	<include name="Viewtype522_coords6_16:9">
-		<left>0</left>
-		<top>109</top>
+		<left>700</left>
+		<top>209</top>
 		<width>720</width>
 		<height>27</height>
 	</include>
@@ -338,10 +338,10 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords7_4:3</include>
 	</include>
 	<include name="Viewtype522_coords7_16:9">
-		<right>0</right>
-		<top>36</top>
+		<left>700</left>
+		<top>250</top>
 		<width>840</width>
-		<height>386</height>
+		<height>191</height>
 	</include>
 	<include name="Viewtype522_coords7_21:9">
 		<right>0</right>
@@ -369,7 +369,7 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords8_4:3</include>
 	</include>
 	<include name="Viewtype522_coords8_16:9">
-		<height>377</height>
+		<height>192</height>
 	</include>
 	<include name="Viewtype522_coords8_21:9">
 		<height>377</height>
@@ -512,9 +512,9 @@
 	</include>
 	<include name="Viewtype522_coords14_16:9">
 		<bottom>0</bottom>
-		<left>0</left>
-		<width>320</width>
-		<height>480</height>
+		<left>15</left>
+		<width>467</width>
+		<height>700</height>
 	</include>
 	<include name="Viewtype522_coords14_21:9">
 		<bottom>0</bottom>
@@ -542,9 +542,9 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords15_4:3</include>
 	</include>
 	<include name="Viewtype522_coords15_16:9">
-		<left>0</left>
+		<left>20</left>
 		<bottom>0</bottom>
-		<width>320</width>
+		<width>457</width>
 		<height>35</height>
 	</include>
 	<include name="Viewtype522_coords15_21:9">
@@ -574,7 +574,7 @@
 	</include>
 	<include name="Viewtype522_coords16_16:9">
 		<width>35</width>
-		<centerleft>160</centerleft>
+		<centerleft>220</centerleft>
 	</include>
 	<include name="Viewtype522_coords16_21:9">
 		<width>35</width>
