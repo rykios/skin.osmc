@@ -13,3 +13,5 @@ Original skin: Andy Morton (https://github.com/BobCratchett)
 Original design: Simon Brunton (https://simonbrunton.com/)
 
 Skinner: Julian Michel (https://github.com/Ch1llb0/skin.osmc)
+
+Attn: This fork contains minor modifications in views, especially view 522 (wide low info)
