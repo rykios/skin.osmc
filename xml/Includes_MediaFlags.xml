@@ -193,12 +193,20 @@
 				</control>
 				<control type="fadelabel">
 					<include>MediaFlags_coords4</include>
+					<visible>String.IsEmpty(ListItem.Rating)</visible>
 					<label>$VAR[MediaFlagsDuration]</label>
 					<font>Font30</font>
 					<textcolor>$VAR[TextColorNF]</textcolor>
 				</control>
 			</control>
 			
+			<control type="fadelabel">
+					<include>MediaFlags_coords4</include>					
+					<visible>!String.IsEmpty(ListItem.Rating)</visible>
+					<label>$VAR[MediaFlagsDuration]  Rating: $INFO[ListItem.Rating] </label>					
+					<font>Font30</font>
+					<textcolor>$VAR[TextColorNF]</textcolor>
+				</control>				
 		</control>
 
 	</include>
@@ -207,12 +215,12 @@
 	<include name="ItemCount">
 		<control type="fadelabel">
 			<include>ItemCount_coords</include>
-			<visible>!Skin.HasSetting(ItemCount)</visible>
-			<label>$INFO[Container.NumItems]$VAR[ContentType, ,]</label>
+			<!-- <visible>!Skin.HasSetting(ItemCount)</visible> Remove this line? -->
+			<label>$INFO[ListItem.Studio]</label>
 			<font>Font30</font>
 			<textcolor>$VAR[TextColorNF]</textcolor>
 			<align>right</align>
-			<visible>!String.IsEmpty(Container.NumItems)</visible>
+			<visible>!String.IsEmpty(ListItem.Studio)</visible>
 			<include>VisibleFadeAnimation</include>
 		</control>
 	</include>
