@@ -277,7 +277,7 @@
 	</include>
 	<include name="Viewtype522_coords5_16:9"> <!----------------------------------------------->
 		<left>700</left>
-		<top>100</top>
+		<top>190</top>
 		<width>950</width>
 		<height>72</height>
 	</include>
@@ -308,7 +308,7 @@
 	</include>
 	<include name="Viewtype522_coords6_16:9">
 		<left>700</left>
-		<top>209</top>
+		<top>265</top>
 		<width>720</width>
 		<height>27</height>
 	</include>
@@ -339,9 +339,9 @@
 	</include>
 	<include name="Viewtype522_coords7_16:9">
 		<left>700</left>
-		<top>250</top>
+		<top>320</top>
 		<width>840</width>
-		<height>191</height>
+		<height>162</height>
 	</include>
 	<include name="Viewtype522_coords7_21:9">
 		<right>0</right>
@@ -369,7 +369,7 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Viewtype522_coords8_4:3</include>
 	</include>
 	<include name="Viewtype522_coords8_16:9">
-		<height>192</height>
+		<height>162</height>
 	</include>
 	<include name="Viewtype522_coords8_21:9">
 		<height>377</height>
