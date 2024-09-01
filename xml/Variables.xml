@@ -482,10 +482,10 @@
 	
 	<!-- List labels -->
 	<variable name="Label1">
-		<value condition="!Container.Content(episodes) + !String.IsEmpty(ListItem.Title) + !ListItem.HasVideoVersions + !String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.Title]</value>
-		<value condition="!Container.Content(episodes) + !String.IsEmpty(ListItem.Title) + ListItem.HasVideoVersions + !String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.Title]$INFO[ListItem.VideoVersionName, (,)]</value>
-		<value condition="Container.Content(episodes) + !String.IsEmpty(ListItem.Title)">$VAR[SElist,, &#8226; ]$INFO[ListItem.Title]</value>
-		<value condition="String.IsEmpty(ListItem.Title) | String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.Label]</value>
+		<value condition="!Container.Content(episodes) + !String.IsEmpty(ListItem.OriginalTitle) + !ListItem.HasVideoVersions + !String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.OriginalTitle]</value>
+		<value condition="!Container.Content(episodes) + !String.IsEmpty(ListItem.OriginalTitle) + ListItem.HasVideoVersions + !String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.OriginalTitle]$INFO[ListItem.VideoVersionName, (,)]</value>
+		<value condition="Container.Content(episodes) + !String.IsEmpty(ListItem.OriginalTitle)">$VAR[SElist,, &#8226; ]$INFO[ListItem.OriginalTitle]</value>
+		<value condition="String.IsEmpty(ListItem.OriginalTitle) | String.StartsWith(Container.FolderPath,videodb://movies/videoversions/)">$INFO[ListItem.Label]</value>
 	</variable>
 
 	<variable name="Label2">
